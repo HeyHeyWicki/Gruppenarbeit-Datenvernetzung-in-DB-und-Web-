@@ -2,6 +2,7 @@
 Die Studierenden entwickeln eine REST-API für einen Datenstamm ihrer Wahl.
 Es sollen für mindestens einen Datensatz sämtliche CRUD-Operationen (Create, Read, Update, Delete) implementiert werden. Read soll auf der ganzen Collection und auf einzelnen Datensätzen möglich sein.
 Die API soll die REST-Prinzipien vollständig umsetzen:
+
 •	Zustandslosigkeit: Es werden serverseitig keine Daten zwischen den Requests gespeichert.
 •	Caching: Cache Header werden korrekt gesetzt
 •	Uniform Interface 
